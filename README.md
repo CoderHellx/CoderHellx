@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi my name is Ertuğ and I am a freshman at Bilkent University as a Computer Science major.
 
 <!--
 **CoderHellx/CoderHellx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
